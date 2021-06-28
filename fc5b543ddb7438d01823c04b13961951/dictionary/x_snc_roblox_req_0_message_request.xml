@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Message Request" max_length="40" name="x_snc_roblox_req_0_message_request" sizeclass="5" type="collection">
+        <element label="Create GitHub issue" max_length="40" name="create_github_issue" type="boolean"/>
+        <element label="Send to Slack" max_length="40" name="send_to_slack" type="boolean"/>
+        <element label="Use REST with Slack messages" max_length="40" name="use_rest_with_slack_messages" type="boolean"/>
+    </element>
+</database>

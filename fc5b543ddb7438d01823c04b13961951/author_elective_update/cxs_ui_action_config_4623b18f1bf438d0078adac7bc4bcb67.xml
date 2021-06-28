@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cxs_ui_action_config">
+    <cxs_ui_action_config action="DELETE">
+        <action_condition/>
+        <action_label>Full View</action_label>
+        <action_undo_label/>
+        <action_value>Full View</action_value>
+        <active>true</active>
+        <advanced_visibility>false</advanced_visibility>
+        <attach_note_field>comments</attach_note_field>
+        <attachment_type/>
+        <badge_label/>
+        <current_action_condition/>
+        <current_table/>
+        <order>2600</order>
+        <rest_api/>
+        <search_res_config/>
+        <search_resource display_value="">com.snc.contextual_search.search_resource.ScriptSearchResource</search_resource>
+        <search_ui_action display_value="Full View">8637d48bc3730300e2fd5cb981d3aea5</search_ui_action>
+        <search_ui_config display_value="Agent Assist [x_snc_roblox_req_0_message_request]">c479a5031bf438d0078adac7bc4bcb49</search_ui_config>
+        <show_on_new>true</show_on_new>
+        <sys_class_name>cxs_ui_action_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-21 22:23:54</sys_created_on>
+        <sys_id>4623b18f1bf438d0078adac7bc4bcb67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Full View</sys_name>
+        <sys_package display_value="Roblox Requests" source="x_snc_roblox_req_0">fc5b543ddb7438d01823c04b13961951</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Roblox Requests">fc5b543ddb7438d01823c04b13961951</sys_scope>
+        <sys_update_name>cxs_ui_action_config_4623b18f1bf438d0078adac7bc4bcb67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-21 22:23:54</sys_updated_on>
+        <table/>
+        <trend_recommendation/>
+        <ui_action_visibility_script/>
+        <use_custom_field_for_attach>false</use_custom_field_for_attach>
+    </cxs_ui_action_config>
+    <sys_translated_text action="DELETE" query="documentkey=4623b18f1bf438d0078adac7bc4bcb67"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Message Requests">fc5b543ddb7438d01823c04b13961951</application>
+        <file_path/>
+        <instance_id>04a40db6dbc8f410601a11f84896196a</instance_id>
+        <instance_name>creatorworkflowsdemo</instance_name>
+        <name>cxs_ui_action_config_4623b18f1bf438d0078adac7bc4bcb67</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cxs_ui_action_config"><cxs_ui_action_config action="INSERT_OR_UPDATE"><action_condition/><action_label>Full View</action_label><action_undo_label/><action_value>Full View</action_value><active>true</active><advanced_visibility>false</advanced_visibility><attach_note_field>comments</attach_note_field><attachment_type/><badge_label/><current_action_condition/><current_table/><order>2600</order><rest_api/><search_res_config/><search_resource display_value="">com.snc.contextual_search.search_resource.ScriptSearchResource</search_resource><search_ui_action display_value="Full View">8637d48bc3730300e2fd5cb981d3aea5</search_ui_action><search_ui_config display_value="Agent Assist [x_snc_roblox_req_0_message_request]">c479a5031bf438d0078adac7bc4bcb49</search_ui_config><show_on_new>true</show_on_new><sys_class_name>cxs_ui_action_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-21 22:23:54</sys_created_on><sys_id>4623b18f1bf438d0078adac7bc4bcb67</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Full View</sys_name><sys_package display_value="Roblox Requests" source="x_snc_roblox_req_0">fc5b543ddb7438d01823c04b13961951</sys_package><sys_policy/><sys_scope display_value="Roblox Requests">fc5b543ddb7438d01823c04b13961951</sys_scope><sys_update_name>cxs_ui_action_config_4623b18f1bf438d0078adac7bc4bcb67</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-21 22:23:54</sys_updated_on><table/><trend_recommendation/><ui_action_visibility_script/><use_custom_field_for_attach>false</use_custom_field_for_attach></cxs_ui_action_config><sys_translated_text action="delete_multiple" query="documentkey=4623b18f1bf438d0078adac7bc4bcb67"/></record_update>]]></payload>
+        <payload_hash>235124816</payload_hash>
+        <record_name>Full View</record_name>
+        <reverted_from/>
+        <source>bc5b543ddb7438d01823c04b13961954</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-21 22:23:54</sys_created_on>
+        <sys_id>8223b18f1bf438d0078adac7bc4bcb6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a30ac46bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-21 22:23:54</sys_updated_on>
+        <type>Search Action Configuration</type>
+        <update_guid>8a23b18f1af438d06e223cfde2b6f36a</update_guid>
+        <update_guid_history>8a23b18f1af438d06e223cfde2b6f36a:235124816</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Full View">0553f98f1bf438d0078adac7bc4bcb24</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-21 22:24:39</sys_created_on>
+        <sys_db_object display_value="" name="cxs_ui_action_config">cxs_ui_action_config</sys_db_object>
+        <sys_id>2e509f38975447be8ca7397dbdf59271</sys_id>
+        <sys_metadata>4623b18f1bf438d0078adac7bc4bcb67</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Full View</sys_name>
+        <sys_package display_value="Message Requests" source="x_snc_roblox_req_0">fc5b543ddb7438d01823c04b13961951</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Message Requests">fc5b543ddb7438d01823c04b13961951</sys_scope>
+        <sys_scope_delete display_value="">02e1ca9457df47108045a62c151eff19</sys_scope_delete>
+        <sys_update_name>cxs_ui_action_config_4623b18f1bf438d0078adac7bc4bcb67</sys_update_name>
+        <sys_update_version display_value="cxs_ui_action_config_4623b18f1bf438d0078adac7bc4bcb67">8223b18f1bf438d0078adac7bc4bcb6b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-21 22:24:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

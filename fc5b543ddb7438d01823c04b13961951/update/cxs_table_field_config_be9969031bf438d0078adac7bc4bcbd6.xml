@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_table_field_config">
+    <cxs_table_field_config action="INSERT_OR_UPDATE">
+        <cxs_table_config display_value="Agent Assist [x_snc_roblox_req_0_message_request]">c479a5031bf438d0078adac7bc4bcb49</cxs_table_config>
+        <default_config>true</default_config>
+        <field>short_description</field>
+        <name>TItle [short_description]</name>
+        <order>100</order>
+        <sys_class_name>cxs_table_field_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-21 21:42:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>be9969031bf438d0078adac7bc4bcbd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TItle [short_description]</sys_name>
+        <sys_package display_value="Message Requests" source="x_snc_roblox_req_0">fc5b543ddb7438d01823c04b13961951</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Message Requests">fc5b543ddb7438d01823c04b13961951</sys_scope>
+        <sys_update_name>cxs_table_field_config_be9969031bf438d0078adac7bc4bcbd6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-21 21:42:10</sys_updated_on>
+    </cxs_table_field_config>
+</record_update>
